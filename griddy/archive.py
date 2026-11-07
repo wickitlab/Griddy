@@ -78,7 +78,10 @@ def verify_chain(path: str) -> tuple[bool, str]:
             line = line.strip()
             if not line:
                 continue
-            record = json.loads(line)
+            try:
+                record = json.loads(line)
+            except ValueError:
+                return False, f"{path}:{line_no}: line is not valid JSON"
             if record.get("prev") != prev_hash:
                 return False, f"{path}:{line_no}: prev-hash mismatch"
             claimed = record.pop("hash", None)
