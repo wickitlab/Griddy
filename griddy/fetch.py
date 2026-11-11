@@ -17,7 +17,7 @@ import json
 
 import requests
 
-USER_AGENT = "Griddy/0.1 (open outage archive; github.com/w1ck3ds0d4/Griddy)"
+USER_AGENT = "Griddy/0.1 (open outage archive; github.com/wickitlab/Griddy)"
 TIMEOUT = 30
 
 LIVE_URL = "https://mobilegis.enemalta.com.mt/mobilegis_rest/api/currentoutages/GetOutages"
