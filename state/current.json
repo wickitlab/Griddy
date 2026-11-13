@@ -1274,6 +1274,182 @@
     }
    ],
    "transformers_sha256": "2a122d95e5a06816f0bbf092a8dcfe30bcaf7025c1629213c9638305a9f8b5a4"
+  },
+  "42011": {
+   "CaseID": "42011",
+   "EndDate": "2026-11-17T14:00:00+01:00",
+   "StartDate": "2026-11-17T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1179",
+     "feeders": [
+      "5"
+     ]
+    }
+   ],
+   "transformers_sha256": "43f3cfcd37c19b46f5b8586bbf99b0b8cde9e799df8b2b1449e52fd6b738df33"
+  },
+  "42012": {
+   "CaseID": "42012",
+   "EndDate": "2026-11-16T12:00:00+01:00",
+   "StartDate": "2026-11-16T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "873",
+     "feeders": [
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "1a071446c736ea5ee94bd90215e9c9a35e74ad84a885464665bcea8bb90704d8"
+  },
+  "42013": {
+   "CaseID": "42013",
+   "EndDate": "2026-11-18T13:00:00+01:00",
+   "StartDate": "2026-11-18T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1371",
+     "feeders": [
+      "1"
+     ]
+    }
+   ],
+   "transformers_sha256": "fc86a797125a5411d69512e406ca4e70aaa8eeefe3126f67d2dcc858b24f8659"
+  },
+  "42014": {
+   "CaseID": "42014",
+   "EndDate": "2026-11-13T11:00:00+01:00",
+   "StartDate": "2026-11-13T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "29",
+     "feeders": [
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "335856a15da5bd4ecfe552e106786f389477aa86bcae491fd7c4ed5c186b2cfb"
+  },
+  "42015": {
+   "CaseID": "42015",
+   "EndDate": "2026-11-13T13:00:00+01:00",
+   "StartDate": "2026-11-13T09:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1706",
+     "feeders": [
+      "13"
+     ]
+    }
+   ],
+   "transformers_sha256": "ba82a0b2b7878fde783b589ca684857bb21a67d56619bf9eb77d8db2e1ae2db5"
+  },
+  "42016": {
+   "CaseID": "42016",
+   "EndDate": "2026-11-16T12:00:00+01:00",
+   "StartDate": "2026-11-16T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "973",
+     "feeders": [
+      "7"
+     ]
+    }
+   ],
+   "transformers_sha256": "3b109bd86aac1fa08f59fcb593ec217adea4e18939bdf613f7c3d3cc388f6131"
+  },
+  "42017": {
+   "CaseID": "42017",
+   "EndDate": "2026-11-17T21:00:00+01:00",
+   "StartDate": "2026-11-17T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "145",
+     "feeders": [
+      "4"
+     ]
+    }
+   ],
+   "transformers_sha256": "e5b0d8419b90f751ec52923c404eb31859ae475b06d287e565b731911eb58951"
+  },
+  "42018": {
+   "CaseID": "42018",
+   "EndDate": "2026-11-17T12:00:00+01:00",
+   "StartDate": "2026-11-17T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "963",
+     "feeders": [
+      "3"
+     ]
+    }
+   ],
+   "transformers_sha256": "1e55e6567acc6d7da74165b69881f2973289b9d9ade273aee67115f4b3af9d3c"
+  },
+  "42019": {
+   "CaseID": "42019",
+   "EndDate": "2026-11-18T12:00:00+01:00",
+   "StartDate": "2026-11-18T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "940",
+     "feeders": [
+      "3"
+     ]
+    }
+   ],
+   "transformers_sha256": "bdedd79a31241b94353c90d121eb442915d3b2057f751a0cb70d80f5249e6875"
+  },
+  "42020": {
+   "CaseID": "42020",
+   "EndDate": "2026-11-16T10:00:00+01:00",
+   "StartDate": "2026-11-16T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "83",
+     "feeders": [
+      "8"
+     ]
+    }
+   ],
+   "transformers_sha256": "747bff6e37ac620d2e446b29d2b18a8bb2ee2ed19c9e9547d2db1817ae07fd9e"
+  },
+  "42021": {
+   "CaseID": "42021",
+   "EndDate": "2026-11-14T10:00:00+01:00",
+   "StartDate": "2026-11-14T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "986",
+     "feeders": [
+      "3",
+      "2"
+     ]
+    },
+    {
+     "TransformerId": "986",
+     "feeders": [
+      "3",
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "9447f4d280aba61f010647a2451d0e86ab048fa7bdff68e5c7637e4379ff6724"
+  },
+  "42022": {
+   "CaseID": "42022",
+   "EndDate": "2026-11-14T13:00:00+01:00",
+   "StartDate": "2026-11-14T08:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "887",
+     "feeders": [
+      "10"
+     ]
+    }
+   ],
+   "transformers_sha256": "3dd9f06212c0472698bcee99e14267aefe765f55c79e8e4988ea6d149d6e1339"
   }
  },
  "planned_page": {
@@ -1412,6 +1588,38 @@
    ],
    "to": "14 November 2026 12:00"
   },
+  "67459cac41e23279": {
+   "city": "Il-Hamrun",
+   "from": "18 November 2026 07:00",
+   "streets": [
+    "TRIQ IS- SANTISSIMA TRINITA'",
+    "TRIQ MIGGIANI"
+   ],
+   "to": "18 November 2026 12:00"
+  },
+  "68e8effce3ee5502": {
+   "city": "Hal Tarxien",
+   "from": "16 November 2026 07:00",
+   "streets": [
+    "TRIQ GUZE' D' AMATO",
+    "TRIQ DUN GWANN BARBARA",
+    "TRIQ SAN FRANGISK",
+    "TRIQ AGOSTINO RANDON",
+    "TRIQ GANANTON TANTI",
+    "TRIQ PIETRO GAGLIARDI",
+    "TRIQ SANTA MARIJA"
+   ],
+   "to": "16 November 2026 12:00"
+  },
+  "6b60215ae37a5b51": {
+   "city": "In-Naxxar",
+   "from": "13 November 2026 09:00",
+   "streets": [
+    "TRIQ SAN TIMOTJU",
+    "TRIQ J. H. NEWMAN"
+   ],
+   "to": "13 November 2026 13:00"
+  },
   "6b96af2b86d7f801": {
    "city": "Ta’ Sannat",
    "from": "13 November 2026 08:30",
@@ -1488,6 +1696,17 @@
    ],
    "to": "13 November 2026 14:30"
   },
+  "8c43bec2407b7d95": {
+   "city": "Hal Qormi",
+   "from": "17 November 2026 07:00",
+   "streets": [
+    "TRIQ IL- BELT VALLETTA",
+    "TRIQ IN- NASSAB",
+    "SQAQ TAL- ARMAL",
+    "TRIQ IL- FURNAR"
+   ],
+   "to": "17 November 2026 12:00"
+  },
   "8c6ef03e22b39b10": {
    "city": "Iz-Zejtun",
    "from": "17 November 2026 08:30",
@@ -1495,6 +1714,30 @@
     "TRIQ DUN LAWRENZ DEGABRIELE"
    ],
    "to": "17 November 2026 11:00"
+  },
+  "956ef96b387c6c53": {
+   "city": "Il-Marsa",
+   "from": "18 November 2026 07:00",
+   "streets": [
+    "TRIQ IC- CENTRU EWKARISTIKU",
+    "TRIQ IS- SANTISSIMA TRINITA'",
+    "TRIQ STIEFNU ZERAFA",
+    "TRIQ IS- SALIB TAL-MARSA",
+    "TRIQ SAN GORG PRECA"
+   ],
+   "to": "18 November 2026 12:00"
+  },
+  "a1264bdd5c1746cf": {
+   "city": "Il-Mosta",
+   "from": "13 November 2026 07:30",
+   "streets": [
+    "TRIQ FABRIZIO BARTOLO",
+    "TRIQ IL- KURAT BEZZINA",
+    "TRIQ SALVU DIMECH",
+    "TRIQ L- ISPERANZA",
+    "TRIQ IL- KBIRA"
+   ],
+   "to": "13 November 2026 11:30"
   },
   "a6153a79a7f25e46": {
    "city": "Hal Luqa",
@@ -1543,6 +1786,17 @@
    ],
    "to": "14 November 2026 14:00"
   },
+  "ca0653389e4afc45": {
+   "city": "Il-Fgura",
+   "from": "18 November 2026 07:00",
+   "streets": [
+    "TRIQ TAL- KLERKU",
+    "TRIQ LOUIS SCHIKLUNA",
+    "TRIQ TITU BRANDSMA",
+    "TRIQ SANT' ANTNIN"
+   ],
+   "to": "18 November 2026 13:00"
+  },
   "cd8ca391dcc4acef": {
    "city": "L-Imsida",
    "from": "20 November 2026 10:00",
@@ -1563,6 +1817,46 @@
     "TRIQ IL- KNISJA"
    ],
    "to": "13 November 2026 06:00"
+  },
+  "d6040d07477dd106": {
+   "city": "Haz-Zabbar",
+   "from": "17 November 2026 07:00",
+   "streets": [
+    "TRIQ IL- HAWT",
+    "MISRAH IS- SLIEM",
+    "MISRAH SAN GAKBU",
+    "MISRAH SAN GAKBU",
+    "SQAQ NRU. 1",
+    "SQAQ SAN PAWL",
+    "TRIQ IC- CIMITERJU",
+    "SQAQ LAJRI",
+    "TRIQ SAN GUZEPP",
+    "TRIQ SAN GUZEPP",
+    "SQAQ NRU. 1",
+    "TRIQ IS- SAQWI"
+   ],
+   "to": "17 November 2026 14:00"
+  },
+  "dd93a1231dea3cdf": {
+   "city": "Hal Safi",
+   "from": "17 November 2026 07:00",
+   "streets": [
+    "TRIQ BIEB IL-GARRA",
+    "TRIQ L- IBRAG",
+    "TRIQ TA' RQAJJA",
+    "TRIQ SAN GWANN"
+   ],
+   "to": "17 November 2026 21:00"
+  },
+  "e2f423f2aabe90ad": {
+   "city": "Haz-Zebbug",
+   "from": "16 November 2026 07:00",
+   "streets": [
+    "TRIQ ADEODATO GATT",
+    "TRIQ L- GHASFURA",
+    "TRIQ AMBROG BUTTIGIEG"
+   ],
+   "to": "16 November 2026 12:00"
   },
   "ea513ecbcdfa0964": {
    "city": "Hal Luqa",
@@ -1596,6 +1890,16 @@
     "TRIQ HAL SAFLIENI"
    ],
    "to": "13 November 2026 12:00"
+  },
+  "fba1742afd03894d": {
+   "city": "Birzebbuga",
+   "from": "16 November 2026 07:00",
+   "streets": [
+    "TRIQ SAN MIKIEL",
+    "TRIQ IL- BIEQJA",
+    "TRIQ SANTA KATARINA"
+   ],
+   "to": "16 November 2026 10:30"
   }
  }
 }
