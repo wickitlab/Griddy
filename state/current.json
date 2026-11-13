@@ -1450,6 +1450,1410 @@
     }
    ],
    "transformers_sha256": "3dd9f06212c0472698bcee99e14267aefe765f55c79e8e4988ea6d149d6e1339"
+  },
+  "42023": {
+   "CaseID": "42023",
+   "EndDate": "2026-11-16T12:00:00+01:00",
+   "StartDate": "2026-11-16T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "522",
+     "feeders": [
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "7eebda0a2c9b66514bd7388b86c33840ede02160ba79d189f8b9f9220b1da6dc"
+  },
+  "42024": {
+   "CaseID": "42024",
+   "EndDate": "2026-11-29T12:00:00+01:00",
+   "StartDate": "2026-11-29T08:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    }
+   ],
+   "transformers_sha256": "1cd76ddda3c687a045e9de22c42656ec4c1779876d662652a2c5a4999b198268"
+  },
+  "42025": {
+   "CaseID": "42025",
+   "EndDate": "2026-11-29T22:00:00+01:00",
+   "StartDate": "2026-11-29T20:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    },
+    {
+     "TransformerId": "698",
+     "feeders": [
+      "manual",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9 & 10"
+     ]
+    }
+   ],
+   "transformers_sha256": "1cd76ddda3c687a045e9de22c42656ec4c1779876d662652a2c5a4999b198268"
+  },
+  "42027": {
+   "CaseID": "42027",
+   "EndDate": "2026-11-19T11:00:00+01:00",
+   "StartDate": "2026-11-19T08:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    }
+   ],
+   "transformers_sha256": "654d07969d5342b09181905a0917331614dd56ae184fec34bcaed57e2c66e35e"
+  },
+  "42028": {
+   "CaseID": "42028",
+   "EndDate": "2026-11-19T13:00:00+01:00",
+   "StartDate": "2026-11-19T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    },
+    {
+     "TransformerId": "357",
+     "feeders": [
+      "10",
+      "11",
+      "3",
+      "1",
+      "12",
+      "13",
+      "14",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "SL",
+      "15"
+     ]
+    }
+   ],
+   "transformers_sha256": "9c8c73f373f5319f0a016c18ac292e516d9155168339cd36c8c47d0decb32f97"
+  },
+  "42029": {
+   "CaseID": "42029",
+   "EndDate": "2026-11-19T21:00:00+01:00",
+   "StartDate": "2026-11-19T18:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    },
+    {
+     "TransformerId": "388",
+     "feeders": [
+      "10",
+      "9",
+      "6",
+      "13",
+      "4",
+      "1",
+      "2",
+      "11",
+      "12",
+      "3",
+      "14",
+      "15",
+      "7",
+      "SL",
+      "Unknown",
+      "5"
+     ]
+    }
+   ],
+   "transformers_sha256": "654d07969d5342b09181905a0917331614dd56ae184fec34bcaed57e2c66e35e"
+  },
+  "42030": {
+   "CaseID": "42030",
+   "EndDate": "2026-11-16T11:00:00+01:00",
+   "StartDate": "2026-11-16T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1712",
+     "feeders": [
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "0dcd24e287067f45be7ecf65eb7d1eb15825da823e0c963985dcd4ebd2feb874"
+  },
+  "42031": {
+   "CaseID": "42031",
+   "EndDate": "2026-11-17T13:00:00+01:00",
+   "StartDate": "2026-11-17T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1293",
+     "feeders": [
+      "1"
+     ]
+    }
+   ],
+   "transformers_sha256": "ad17aa602632e9f1023531f7ca15b215f2ecc7a5ffd9099b5e661ca00fbf7d21"
+  },
+  "42032": {
+   "CaseID": "42032",
+   "EndDate": "2026-11-18T08:00:00+01:00",
+   "StartDate": "2026-11-18T03:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1226",
+     "feeders": [
+      "6"
+     ]
+    }
+   ],
+   "transformers_sha256": "7afd838a5b102454ec7b53dd4eb83b57a851aff33a4ee309074951927c000d66"
   }
  },
  "planned_page": {
@@ -1462,6 +2866,18 @@
     "TRIQ IR- REBBIEGHA"
    ],
    "to": "16 November 2026 14:00"
+  },
+  "07e03261ff9273ec": {
+   "city": "Marsaskala",
+   "from": "14 November 2026 07:15",
+   "streets": [
+    "TRIQ L- GHAGUZA",
+    "TRIQ SANTA MARIJA",
+    "TRIQ SAN NIKOLA",
+    "TRIQ IL- BAJJA",
+    "TRIQ L- GHAWWIEMA"
+   ],
+   "to": "14 November 2026 10:15"
   },
   "1209b1414d0b6ec2": {
    "city": "Iz-Zurrieq",
@@ -1531,6 +2947,26 @@
    ],
    "to": "13 November 2026 14:00"
   },
+  "2ff7546bf8ed83a5": {
+   "city": "Il-Fgura",
+   "from": "19 November 2026 07:30",
+   "streets": [
+    "TRIQ IL- LIEDNA",
+    "TRIQ IL- GIZI",
+    "TRIQ SAN MIKIEL",
+    "TRIQ IL- MALVIZZ",
+    "TRIQ IR- RIHAN",
+    "TRIQ IL- HUTTAFA",
+    "SQAQ RJALLU",
+    "TRIQ IL- GIZIMINA",
+    "TRIQ KENT",
+    "TRIQ MATER BONI CONSILII",
+    "TRIQ SAN FRANGISK",
+    "TRIQ IL- KAMPANELLA",
+    "TRIQ HAZ-ZABBAR"
+   ],
+   "to": "19 November 2026 13:30"
+  },
   "30731799fa3bb597": {
    "city": "Birkirkara",
    "from": "13 November 2026 03:00",
@@ -1558,6 +2994,15 @@
     "TREJQET DUN NERIK CORDINA PEREZ"
    ],
    "to": "16 November 2026 14:00"
+  },
+  "391297aa3eaccbef": {
+   "city": "Il-Gzira",
+   "from": "16 November 2026 07:30",
+   "streets": [
+    "TRIQ SIR WILLIAM REID",
+    "TRIQ SIR PATRICK STUART"
+   ],
+   "to": "16 November 2026 11:30"
   },
   "44926a299589c94c": {
    "city": "Hal Qormi",
@@ -1587,6 +3032,29 @@
     "TRIQ IL- FRANKA"
    ],
    "to": "14 November 2026 12:00"
+  },
+  "60efd7a986a5e078": {
+   "city": "San Pawl il-Bahar",
+   "from": "14 November 2026 08:00",
+   "streets": [
+    "TRIQ L- IMREJKBA",
+    "TRIQ IL- FLIEGU"
+   ],
+   "to": "14 November 2026 13:00"
+  },
+  "643eb1cd98901a64": {
+   "city": "Paola",
+   "from": "19 November 2026 07:30",
+   "streets": [
+    "TRIQ HAZ-ZABBAR",
+    "TRIQ SAN GORG",
+    "TRIQ ID- DURRAJSA",
+    "TRIQ IL- GURBELL",
+    "TRIQ MATER BONI CONSILII",
+    "TRIQ SCHREIBER",
+    "TRIQ GUZEPPI AGIUS"
+   ],
+   "to": "19 November 2026 13:30"
   },
   "67459cac41e23279": {
    "city": "Il-Hamrun",
@@ -1739,6 +3207,39 @@
    ],
    "to": "13 November 2026 11:30"
   },
+  "a1b314170169d602": {
+   "city": "Il-Mellieha",
+   "from": "19 November 2026 18:00",
+   "streets": [
+    "TRIQ L- ASSEDJU L-KBIR 1565",
+    "TRIQ IL- MODD",
+    "TRIQ IL- QIGHAN",
+    "TRIQ IL- MIDRA",
+    "TRIQ GORG BORG OLIVIER",
+    "TRIQ IL- MADONNA TA' FATIMA",
+    "TRIQ L- ISQOF PACE",
+    "TRIQ IL- QALB IMQADDSA",
+    "TRIQ SAN PUBLJU",
+    "TRIQ SAN PAWL",
+    "MISRAH IL- PARROCCA",
+    "TRIQ IL- MARFA",
+    "TRIQ MONS. INDRI FENECH",
+    "TRIQ IL- PARROCCA",
+    "TRIQ IN- NINFA CALYPSO",
+    "TRIQ IC- CIKKEN",
+    "TRIQ QASAM BARRANI",
+    "TRIQ NAPULJUN CARUANA DINGLI",
+    "TRIQ IL- MADONNA TAL-GHAR",
+    "TRIQ IL- KAPPILLAN MAGRI",
+    "TRIQ IL- LUH",
+    "TRIQ L- ERWIEH",
+    "TRIQ SALVINU VELLA",
+    "TRIQ L- INKURUNAZZJONI",
+    "DAWRET IL- MELLIEHA",
+    "TRIQ IL- MITHNA L-GDIDA"
+   ],
+   "to": "19 November 2026 21:00"
+  },
   "a6153a79a7f25e46": {
    "city": "Hal Luqa",
    "from": "13 November 2026 07:00",
@@ -1748,6 +3249,19 @@
     "TRIQ GORG ZAHRA"
    ],
    "to": "13 November 2026 12:00"
+  },
+  "a9aa58737349afbe": {
+   "city": "Ir-Rabat",
+   "from": "16 November 2026 07:00",
+   "streets": [
+    "IS- SWATAR",
+    "LIMITI TAR-",
+    "TRIQ GHAR BARKA",
+    "TRIQ TAL- LUNZJATA",
+    "TRIQ MISRAH SUFFARA",
+    "TRIQ SANTA KATERINA"
+   ],
+   "to": "16 November 2026 12:00"
   },
   "b3dde02ad62e09ac": {
    "city": "Had-Dingli",
@@ -1773,6 +3287,17 @@
    ],
    "to": "13 November 2026 14:30"
   },
+  "be17b36a2b1a66d7": {
+   "city": "Il-Mosta",
+   "from": "18 November 2026 03:30",
+   "streets": [
+    "TRIQ DON ALVARO DE SANDE",
+    "TRIQ SAN PAWL EREMITA",
+    "TRIQ IT- TABIB CHETCUTI",
+    "TRIQ ID- DISGHA TA' APRIL"
+   ],
+   "to": "18 November 2026 08:30"
+  },
   "c9b31658cf0225f6": {
    "city": "Iz-Zurrieq",
    "from": "14 November 2026 07:00",
@@ -1797,6 +3322,15 @@
    ],
    "to": "18 November 2026 13:00"
   },
+  "cbc27b57e644e866": {
+   "city": "Hal Qormi",
+   "from": "29 November 2026 20:30",
+   "streets": [
+    "LOWENBRAU",
+    "TRIQ IT- TIGRIJA"
+   ],
+   "to": "29 November 2026 22:30"
+  },
   "cd8ca391dcc4acef": {
    "city": "L-Imsida",
    "from": "20 November 2026 10:00",
@@ -1818,6 +3352,15 @@
    ],
    "to": "13 November 2026 06:00"
   },
+  "d578d499e8c93e3d": {
+   "city": "Hal Qormi",
+   "from": "29 November 2026 08:00",
+   "streets": [
+    "LOWENBRAU",
+    "TRIQ IT- TIGRIJA"
+   ],
+   "to": "29 November 2026 12:00"
+  },
   "d6040d07477dd106": {
    "city": "Haz-Zabbar",
    "from": "17 November 2026 07:00",
@@ -1836,6 +3379,39 @@
     "TRIQ IS- SAQWI"
    ],
    "to": "17 November 2026 14:00"
+  },
+  "db1cd05e00669eff": {
+   "city": "Il-Mellieha",
+   "from": "19 November 2026 08:00",
+   "streets": [
+    "TRIQ L- ASSEDJU L-KBIR 1565",
+    "TRIQ IL- MODD",
+    "TRIQ IL- QIGHAN",
+    "TRIQ IL- MIDRA",
+    "TRIQ GORG BORG OLIVIER",
+    "TRIQ IL- MADONNA TA' FATIMA",
+    "TRIQ L- ISQOF PACE",
+    "TRIQ IL- QALB IMQADDSA",
+    "TRIQ SAN PUBLJU",
+    "TRIQ SAN PAWL",
+    "MISRAH IL- PARROCCA",
+    "TRIQ IL- MARFA",
+    "TRIQ MONS. INDRI FENECH",
+    "TRIQ IL- PARROCCA",
+    "TRIQ IN- NINFA CALYPSO",
+    "TRIQ IC- CIKKEN",
+    "TRIQ QASAM BARRANI",
+    "TRIQ NAPULJUN CARUANA DINGLI",
+    "TRIQ IL- MADONNA TAL-GHAR",
+    "TRIQ IL- KAPPILLAN MAGRI",
+    "TRIQ IL- LUH",
+    "TRIQ L- ERWIEH",
+    "TRIQ SALVINU VELLA",
+    "TRIQ L- INKURUNAZZJONI",
+    "DAWRET IL- MELLIEHA",
+    "TRIQ IL- MITHNA L-GDIDA"
+   ],
+   "to": "19 November 2026 11:00"
   },
   "dd93a1231dea3cdf": {
    "city": "Hal Safi",
@@ -1890,6 +3466,17 @@
     "TRIQ HAL SAFLIENI"
    ],
    "to": "13 November 2026 12:00"
+  },
+  "fab3d76184126c1f": {
+   "city": "Hal Safi",
+   "from": "17 November 2026 07:00",
+   "streets": [
+    "TRIQ QERD IN-NAHAL",
+    "TRIQ STIEFNU ERARDI",
+    "TRIQ SAN TUMAS",
+    "TRIQ HLANTUN"
+   ],
+   "to": "17 November 2026 13:00"
   },
   "fba1742afd03894d": {
    "city": "Birzebbuga",
