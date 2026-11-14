@@ -2915,17 +2915,6 @@
    ],
    "to": "17 November 2026 06:00"
   },
-  "1af06df2a7b01c24": {
-   "city": "San Pawl il-Bahar",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ L- ARZNELL",
-    "TRIQ IL- MOSTA",
-    "TRIQ IL- MAKKU",
-    "TRIQ IL- KAHLI"
-   ],
-   "to": "13 November 2026 15:00"
-  },
   "21396c3588f2ad52": {
    "city": "Il-Marsa",
    "from": "15 November 2026 08:00",
@@ -2934,18 +2923,6 @@
     "TRIQ GIUSEPPE GARIBALDI"
    ],
    "to": "15 November 2026 20:00"
-  },
-  "293be03fe94d926f": {
-   "city": "Il-Fgura",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ L- GHARNUQ",
-    "TRIQ IR- RGHAJJA",
-    "TRIQ IL- FALKUNIER",
-    "TRIQ IL- KULUVERT",
-    "TRIQ MARY CARTER"
-   ],
-   "to": "13 November 2026 14:00"
   },
   "2ff7546bf8ed83a5": {
    "city": "Il-Fgura",
@@ -2967,25 +2944,6 @@
    ],
    "to": "19 November 2026 13:30"
   },
-  "30731799fa3bb597": {
-   "city": "Birkirkara",
-   "from": "13 November 2026 03:00",
-   "streets": [
-    "TRIQ BRIGHELLA",
-    "TRIQ IL- QARCILLA",
-    "TRIQ LEWIS V. FARRUGIA",
-    "TRIQ CARMEL BRINCAT",
-    "TRIQ HAL QORMI",
-    "TRIQ NOTABILE",
-    "TRIQ SAN GWAKKIN",
-    "TRIQ L- INTORNJATUR",
-    "TRIQ IT- 3 TA' SETTEMBRU 1798",
-    "TRIQ IS- SALIB TA' L-IMRIEHEL",
-    "TRIQ IL- HADDIEMA",
-    "TRIQ L- GHAJN TA' NOFS TRIQ"
-   ],
-   "to": "13 November 2026 07:00"
-  },
   "3405622044d8cbf1": {
    "city": "In-Naxxar",
    "from": "16 November 2026 07:30",
@@ -3003,14 +2961,6 @@
     "TRIQ SIR PATRICK STUART"
    ],
    "to": "16 November 2026 11:30"
-  },
-  "44926a299589c94c": {
-   "city": "Hal Qormi",
-   "from": "13 November 2026 03:00",
-   "streets": [
-    "TRIQ SAN GWAKKIN"
-   ],
-   "to": "13 November 2026 07:00"
   },
   "4db3497989840f8c": {
    "city": "Il-Mellieha",
@@ -3079,28 +3029,6 @@
    ],
    "to": "16 November 2026 12:00"
   },
-  "6b60215ae37a5b51": {
-   "city": "In-Naxxar",
-   "from": "13 November 2026 09:00",
-   "streets": [
-    "TRIQ SAN TIMOTJU",
-    "TRIQ J. H. NEWMAN"
-   ],
-   "to": "13 November 2026 13:00"
-  },
-  "6b96af2b86d7f801": {
-   "city": "Ta’ Sannat",
-   "from": "13 November 2026 08:30",
-   "streets": [
-    "TRIQ TA' SANNAT",
-    "TRIQ L- ISQOF DAVIDE COCCO PALMERI",
-    "TRIQ IT- TMIENJA W GHOXRIN TA' APRIL",
-    "1688",
-    "TRIQ IL- BLAT",
-    "TRIQ MARZIENA"
-   ],
-   "to": "13 November 2026 16:30"
-  },
   "7163c8d745ad3ffa": {
    "city": "Hal Luqa",
    "from": "14 November 2026 07:00",
@@ -3114,19 +3042,6 @@
     "TRIQ SANT' ANDRIJA"
    ],
    "to": "14 November 2026 12:00"
-  },
-  "77ecf2250ea004cd": {
-   "city": "Iz-Zejtun",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ SIR PAUL BOFFA",
-    "TRIQ EMANUEL CANNATACI",
-    "MISRAH KAN. GIOV. VELLA",
-    "TRIQ IL- LABOUR",
-    "TRIQ MELCHIORRE GAFA'",
-    "TRIQ IL- MADONNA TAL-HNIENA"
-   ],
-   "to": "13 November 2026 13:00"
   },
   "7dac432a52ce1970": {
    "city": "Il-Hamrun",
@@ -3153,16 +3068,6 @@
     "TRIQ TA' BARDAN"
    ],
    "to": "14 November 2026 14:00"
-  },
-  "8c29060afeb907c5": {
-   "city": "Il-Fontana",
-   "from": "13 November 2026 08:30",
-   "streets": [
-    "TRIQ IL- KAPPILLAN GUZEPP HILI",
-    "TRIQ SAN MARTIN",
-    "TREJQET IL- HARRUB"
-   ],
-   "to": "13 November 2026 14:30"
   },
   "8c43bec2407b7d95": {
    "city": "Hal Qormi",
@@ -3194,18 +3099,6 @@
     "TRIQ SAN GORG PRECA"
    ],
    "to": "18 November 2026 12:00"
-  },
-  "a1264bdd5c1746cf": {
-   "city": "Il-Mosta",
-   "from": "13 November 2026 07:30",
-   "streets": [
-    "TRIQ FABRIZIO BARTOLO",
-    "TRIQ IL- KURAT BEZZINA",
-    "TRIQ SALVU DIMECH",
-    "TRIQ L- ISPERANZA",
-    "TRIQ IL- KBIRA"
-   ],
-   "to": "13 November 2026 11:30"
   },
   "a1b314170169d602": {
    "city": "Il-Mellieha",
@@ -3240,16 +3133,6 @@
    ],
    "to": "19 November 2026 21:00"
   },
-  "a6153a79a7f25e46": {
-   "city": "Hal Luqa",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ GUZEPPI ELLUL",
-    "TRIQ GUZEPPI CASHA",
-    "TRIQ GORG ZAHRA"
-   ],
-   "to": "13 November 2026 12:00"
-  },
   "a9aa58737349afbe": {
    "city": "Ir-Rabat",
    "from": "16 November 2026 07:00",
@@ -3262,30 +3145,6 @@
     "TRIQ SANTA KATERINA"
    ],
    "to": "16 November 2026 12:00"
-  },
-  "b3dde02ad62e09ac": {
-   "city": "Had-Dingli",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ RILL",
-    "TRIQ ROSS",
-    "TRIQ IL- KBIRA",
-    "TRIQ IR- RABAT",
-    "SQAQ SANTA TEREZA",
-    "TRIQ IR- RABAT",
-    "SQAQ NRU. 2",
-    "TRIQ IR- RABAT",
-    "SQAQ NRU. 1"
-   ],
-   "to": "13 November 2026 15:00"
-  },
-  "bb401eac7595754a": {
-   "city": "Ir-Rabat, Ghawdex",
-   "from": "13 November 2026 08:30",
-   "streets": [
-    "TRIQ SANTA DUMINKA"
-   ],
-   "to": "13 November 2026 14:30"
   },
   "be17b36a2b1a66d7": {
    "city": "Il-Mosta",
@@ -3338,19 +3197,6 @@
     "TRIQ GARCIN"
    ],
    "to": "20 November 2026 14:00"
-  },
-  "d520dbde9a3d4cb4": {
-   "city": "San Giljan",
-   "from": "13 November 2026 03:00",
-   "streets": [
-    "TRIQ PACEVILLE",
-    "TRIQ GORT",
-    "TRIQ SCHREIBER",
-    "TRIQ SALVU PRIVITERA",
-    "VJAL PORTOMASO",
-    "TRIQ IL- KNISJA"
-   ],
-   "to": "13 November 2026 06:00"
   },
   "d578d499e8c93e3d": {
    "city": "Hal Qormi",
@@ -3448,24 +3294,6 @@
     "SQAQ IL- FDAL TAL-HADID"
    ],
    "to": "21 November 2026 16:00"
-  },
-  "ea71e5e0221a8980": {
-   "city": "San Pawl il-Bahar",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ L- ARZNELL",
-    "TRIQ IL- KAHLI"
-   ],
-   "to": "13 November 2026 15:00"
-  },
-  "f4b538123891b032": {
-   "city": "Hal Luqa",
-   "from": "13 November 2026 07:00",
-   "streets": [
-    "TRIQ PATRI INDRI SCHEMBRI",
-    "TRIQ HAL SAFLIENI"
-   ],
-   "to": "13 November 2026 12:00"
   },
   "fab3d76184126c1f": {
    "city": "Hal Safi",
