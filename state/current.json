@@ -2230,6 +2230,20 @@
    ],
    "to": "16 November 2026 12:00"
   },
+  "72151f3942dba716": {
+   "city": "L-Iklin",
+   "from": "17 November 2026 08:00",
+   "streets": [
+    "TRIQ GIOVANNI CURMI",
+    "TRIQ CENSU BUSUTTIL",
+    "TRIQ ALFONS MARIA GALEA",
+    "TRIQ ANTON BUTTIGIEG",
+    "TRIQ GUZE' BONNICI",
+    "TRIQ GUZE' ELLUL MERCER",
+    "TRIQ GERONIMO ABOS"
+   ],
+   "to": "17 November 2026 14:00"
+  },
   "7dac432a52ce1970": {
    "city": "Il-Hamrun",
    "from": "16 November 2026 07:30",
@@ -2237,6 +2251,24 @@
     "TRIQ JOE SCIBERRAS"
    ],
    "to": "16 November 2026 12:30"
+  },
+  "828ffa1a1ea3a5c3": {
+   "city": "Birkirkara",
+   "from": "16 November 2026 08:00",
+   "streets": [
+    "TRIQ IL- KULLEGG",
+    "TRIQ IL- FERROVIJA L-QADIMA"
+   ],
+   "to": "16 November 2026 12:00"
+  },
+  "888355437739a1af": {
+   "city": "Hal Balzan",
+   "from": "18 November 2026 10:00",
+   "streets": [
+    "TRIQ BIRBAL",
+    "TRIQ IL- KBIRA"
+   ],
+   "to": "18 November 2026 14:00"
   },
   "8c43bec2407b7d95": {
    "city": "Hal Qormi",
@@ -2266,6 +2298,16 @@
     "TRIQ STIEFNU ZERAFA",
     "TRIQ IS- SALIB TAL-MARSA",
     "TRIQ SAN GORG PRECA"
+   ],
+   "to": "18 November 2026 12:00"
+  },
+  "96b450e773c22378": {
+   "city": "Birkirkara",
+   "from": "18 November 2026 08:00",
+   "streets": [
+    "TRIQ FRANGISK XERRI",
+    "TRIQ IN- NAXXAR",
+    "TRIQ DOMENICO CACHIA"
    ],
    "to": "18 November 2026 12:00"
   },
@@ -2302,6 +2344,17 @@
    ],
    "to": "19 November 2026 21:00"
   },
+  "a8e76aa6fdcad24d": {
+   "city": "Birkirkara",
+   "from": "18 November 2026 10:00",
+   "streets": [
+    "TRIQ SANTA TEREZA",
+    "TRIQ IL- KULLEGG",
+    "MISRAH SAN ALWIGI",
+    "TRIQ IL- FERROVIJA L-QADIMA"
+   ],
+   "to": "18 November 2026 14:00"
+  },
   "a9aa58737349afbe": {
    "city": "Ir-Rabat",
    "from": "16 November 2026 07:00",
@@ -2314,6 +2367,14 @@
     "TRIQ SANTA KATERINA"
    ],
    "to": "16 November 2026 12:00"
+  },
+  "bc973b3c55260e37": {
+   "city": "Hal Tarxien",
+   "from": "22 November 2026 08:00",
+   "streets": [
+    "TRIQ HAL GHARRAT"
+   ],
+   "to": "22 November 2026 14:00"
   },
   "be17b36a2b1a66d7": {
    "city": "Il-Mosta",
@@ -2414,6 +2475,17 @@
     "TRIQ IL- MITHNA L-GDIDA"
    ],
    "to": "19 November 2026 11:00"
+  },
+  "db65547bdad76a71": {
+   "city": "Marsaskala",
+   "from": "18 November 2026 07:00",
+   "streets": [
+    "TRIQ GHAXQET L-GHAJN",
+    "TRIQ IL- HABAQ",
+    "TRIQ IL- KOSBOR",
+    "TRIQ IR- RIGNU"
+   ],
+   "to": "18 November 2026 13:00"
   },
   "dd93a1231dea3cdf": {
    "city": "Hal Safi",
