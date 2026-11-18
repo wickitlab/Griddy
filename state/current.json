@@ -2173,16 +2173,6 @@
   }
  },
  "planned_page": {
-  "073811ff7b3138b0": {
-   "city": "Pembroke",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ GIO. FELICE INGLOTT",
-    "TRIQ IGNAZIO GAVINO BONAVITA",
-    "TRIQ DUN AMABILE SISNER"
-   ],
-   "to": "17 November 2026 12:00"
-  },
   "1167dab9c2b7e5bf": {
    "city": "Santa Venera",
    "from": "20 November 2026 07:30",
@@ -2192,27 +2182,6 @@
    ],
    "to": "20 November 2026 12:30"
   },
-  "185b47a02d46b687": {
-   "city": "Il-Belt Valletta",
-   "from": "17 November 2026 00:00",
-   "streets": [
-    "THE PALACE",
-    "TRIQ ID- DEJQA",
-    "TRIQ IR- REPUBBLIKA",
-    "TRIQ TAT- TEATRU L-ANTIK",
-    "TRIQ L- ARCISQOF",
-    "TRIQ SAN KRISTOFRU",
-    "TRIQ SANTA LUCIJA",
-    "TRIQ IT- TEZORERIJA",
-    "TRIQ IL- MERKANTI",
-    "TRIQ SAN PAWL",
-    "MISRAH IR- REPUBBLIKA",
-    "MISRAH L- ASSEDJU L-KBIR",
-    "TRIQ IL- KARRIJIET",
-    "MISRAH SAN GORG"
-   ],
-   "to": "17 November 2026 06:00"
-  },
   "23a4087647b7eefd": {
    "city": "Hal Lija",
    "from": "21 November 2026 08:00",
@@ -2220,25 +2189,6 @@
     "TRIQ IN- NAXXAR"
    ],
    "to": "21 November 2026 14:00"
-  },
-  "24b40ec9c428885e": {
-   "city": "L-Imgarr",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "AREA IL-WILGA TA'BINGEMMA",
-    "TRIQ BINGEMMA",
-    "TRIQ TAL- HADDEDIN",
-    "TRIQ IN- NICCA"
-   ],
-   "to": "17 November 2026 12:00"
-  },
-  "24dd4acae5f3ec35": {
-   "city": "Ta’ Xbiex",
-   "from": "17 November 2026 07:30",
-   "streets": [
-    "TRIQ GIUSEPPE CALI'"
-   ],
-   "to": "17 November 2026 12:30"
   },
   "2ff7546bf8ed83a5": {
    "city": "Il-Fgura",
@@ -2260,17 +2210,6 @@
    ],
    "to": "19 November 2026 13:30"
   },
-  "39cdebb205ce516b": {
-   "city": "L-Imsida",
-   "from": "17 November 2026 07:30",
-   "streets": [
-    "TRIQ IL- MONSINJUR DANDRIA",
-    "TRIQ ANTONIO SCIORTINO",
-    "TRIQ IL- MAKNA TAS-SERRAR",
-    "TRIQ IL- PRINCIPESSA MARGERITA"
-   ],
-   "to": "17 November 2026 12:30"
-  },
   "5b9c8e87eb42192e": {
    "city": "L-Imsida",
    "from": "20 November 2026 10:00",
@@ -2280,26 +2219,6 @@
     "TRIQ TAL- GHERIEBEL"
    ],
    "to": "20 November 2026 14:00"
-  },
-  "5d461100aef49166": {
-   "city": "L-Imsida",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ IL- KAROZZIN",
-    "TRIQ GARCIN",
-    "TRIQ TAL- GHERIEBEL"
-   ],
-   "to": "17 November 2026 11:30"
-  },
-  "6232eeddcf50e250": {
-   "city": "L-Imsida",
-   "from": "17 November 2026 08:30",
-   "streets": [
-    "TRIQ GIORGIO MITROVICH",
-    "TRIQ D' ARGENS",
-    "TRIQ L- ISQOF F. S. CARUANA"
-   ],
-   "to": "17 November 2026 13:30"
   },
   "643eb1cd98901a64": {
    "city": "Paola",
@@ -2341,20 +2260,6 @@
    ],
    "to": "18 November 2026 04:00"
   },
-  "72151f3942dba716": {
-   "city": "L-Iklin",
-   "from": "17 November 2026 08:00",
-   "streets": [
-    "TRIQ GIOVANNI CURMI",
-    "TRIQ CENSU BUSUTTIL",
-    "TRIQ ALFONS MARIA GALEA",
-    "TRIQ ANTON BUTTIGIEG",
-    "TRIQ GUZE' BONNICI",
-    "TRIQ GUZE' ELLUL MERCER",
-    "TRIQ GERONIMO ABOS"
-   ],
-   "to": "17 November 2026 14:00"
-  },
   "779fd2ad2a645635": {
    "city": "Tal-Pietà",
    "from": "18 November 2026 01:00",
@@ -2371,35 +2276,6 @@
     "TRIQ IL- KBIRA"
    ],
    "to": "18 November 2026 14:00"
-  },
-  "8c0fb1dd0309f604": {
-   "city": "Ta’ Xbiex",
-   "from": "17 November 2026 08:30",
-   "streets": [
-    "TRIQ TESTAFERRATA",
-    "TRIQ GIUSEPPE CALI'",
-    "TRIQ GIORGIO MITROVICH"
-   ],
-   "to": "17 November 2026 13:30"
-  },
-  "8c43bec2407b7d95": {
-   "city": "Hal Qormi",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ IL- BELT VALLETTA",
-    "TRIQ IN- NASSAB",
-    "SQAQ TAL- ARMAL",
-    "TRIQ IL- FURNAR"
-   ],
-   "to": "17 November 2026 12:00"
-  },
-  "8c6ef03e22b39b10": {
-   "city": "Iz-Zejtun",
-   "from": "17 November 2026 08:30",
-   "streets": [
-    "TRIQ DUN LAWRENZ DEGABRIELE"
-   ],
-   "to": "17 November 2026 11:00"
   },
   "9009b04cc11063a7": {
    "city": "L-Iklin",
@@ -2570,25 +2446,6 @@
    ],
    "to": "29 November 2026 12:00"
   },
-  "d6040d07477dd106": {
-   "city": "Haz-Zabbar",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ IL- HAWT",
-    "MISRAH IS- SLIEM",
-    "MISRAH SAN GAKBU",
-    "MISRAH SAN GAKBU",
-    "SQAQ NRU. 1",
-    "SQAQ SAN PAWL",
-    "TRIQ IC- CIMITERJU",
-    "SQAQ LAJRI",
-    "TRIQ SAN GUZEPP",
-    "TRIQ SAN GUZEPP",
-    "SQAQ NRU. 1",
-    "TRIQ IS- SAQWI"
-   ],
-   "to": "17 November 2026 14:00"
-  },
   "db1cd05e00669eff": {
    "city": "Il-Mellieha",
    "from": "19 November 2026 08:00",
@@ -2633,17 +2490,6 @@
    ],
    "to": "18 November 2026 13:00"
   },
-  "dd93a1231dea3cdf": {
-   "city": "Hal Safi",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ BIEB IL-GARRA",
-    "TRIQ L- IBRAG",
-    "TRIQ TA' RQAJJA",
-    "TRIQ SAN GWANN"
-   ],
-   "to": "17 November 2026 21:00"
-  },
   "ea513ecbcdfa0964": {
    "city": "Hal Luqa",
    "from": "21 November 2026 08:00",
@@ -2669,17 +2515,6 @@
     "TRIQ IN- NICCA"
    ],
    "to": "18 November 2026 17:00"
-  },
-  "fab3d76184126c1f": {
-   "city": "Hal Safi",
-   "from": "17 November 2026 07:00",
-   "streets": [
-    "TRIQ QERD IN-NAHAL",
-    "TRIQ STIEFNU ERARDI",
-    "TRIQ SAN TUMAS",
-    "TRIQ HLANTUN"
-   ],
-   "to": "17 November 2026 13:00"
   },
   "fcb765b344b8fe70": {
    "city": "L-Iklin",
