@@ -1917,24 +1917,6 @@
    ],
    "to": "25 November 2026 04:00"
   },
-  "0a2d6deac270ebd3": {
-   "city": "Il-Birgu",
-   "from": "19 November 2026 07:00",
-   "streets": [
-    "TRIQ IC- CENTINARJU TAL-PARROCCA",
-    "TRIQ IL- PALAZZ L-ANTIK TAL-GVERNATUR",
-    "TRIQ IL- PJAZZETTA",
-    "TRIQ LA VALLETTE",
-    "TRIQ SAN FILIPPU",
-    "PJAZZETTA SAN FILIPPU",
-    "TRIQ EMANUEL ATTERD BEZZINA",
-    "TRIQ IL- MADONNA TA' MONSERRAT",
-    "TRIQ IL- MIRATUR",
-    "TRIQ IL- HABS L-ANTIK",
-    "TRIQ SAN LAWRENZ"
-   ],
-   "to": "19 November 2026 14:00"
-  },
   "0e4dc41f6068ba2e": {
    "city": "Il-Mellieha",
    "from": "24 November 2026 22:00",
@@ -1971,16 +1953,6 @@
    ],
    "to": "21 November 2026 14:00"
   },
-  "47b9a468da0e553b": {
-   "city": "Il-Gzira",
-   "from": "19 November 2026 08:00",
-   "streets": [
-    "TRIQ IL- GZIRA",
-    "TRIQ IL- GZIRA",
-    "BINI TAL-GVERN"
-   ],
-   "to": "19 November 2026 14:00"
-  },
   "5b9c8e87eb42192e": {
    "city": "L-Imsida",
    "from": "20 November 2026 10:00",
@@ -1990,17 +1962,6 @@
     "TRIQ TAL- GHERIEBEL"
    ],
    "to": "20 November 2026 14:00"
-  },
-  "5db07c1963205fa4": {
-   "city": "Il-Mellieha",
-   "from": "19 November 2026 08:00",
-   "streets": [
-    "TRIQ IL- KBIRA",
-    "MISRAH TAS- SALIB",
-    "MISRAH TAS- SALIB",
-    "SQAQ NRU. 1"
-   ],
-   "to": "19 November 2026 13:00"
   },
   "684b63a8e7209951": {
    "city": "Ghajnsielem",
@@ -2065,39 +2026,6 @@
    ],
    "to": "20 November 2026 13:00"
   },
-  "a1b314170169d602": {
-   "city": "Il-Mellieha",
-   "from": "19 November 2026 18:00",
-   "streets": [
-    "TRIQ L- ASSEDJU L-KBIR 1565",
-    "TRIQ IL- MODD",
-    "TRIQ IL- QIGHAN",
-    "TRIQ IL- MIDRA",
-    "TRIQ GORG BORG OLIVIER",
-    "TRIQ IL- MADONNA TA' FATIMA",
-    "TRIQ L- ISQOF PACE",
-    "TRIQ IL- QALB IMQADDSA",
-    "TRIQ SAN PUBLJU",
-    "TRIQ SAN PAWL",
-    "MISRAH IL- PARROCCA",
-    "TRIQ IL- MARFA",
-    "TRIQ MONS. INDRI FENECH",
-    "TRIQ IL- PARROCCA",
-    "TRIQ IN- NINFA CALYPSO",
-    "TRIQ IC- CIKKEN",
-    "TRIQ QASAM BARRANI",
-    "TRIQ NAPULJUN CARUANA DINGLI",
-    "TRIQ IL- MADONNA TAL-GHAR",
-    "TRIQ IL- KAPPILLAN MAGRI",
-    "TRIQ IL- LUH",
-    "TRIQ L- ERWIEH",
-    "TRIQ SALVINU VELLA",
-    "TRIQ L- INKURUNAZZJONI",
-    "DAWRET IL- MELLIEHA",
-    "TRIQ IL- MITHNA L-GDIDA"
-   ],
-   "to": "19 November 2026 21:00"
-  },
   "a964eabc5c4d0911": {
    "city": "Il-Fgura",
    "from": "21 November 2026 07:00",
@@ -2127,15 +2055,6 @@
     "TRIQ ANGLU DELIA"
    ],
    "to": "20 November 2026 12:15"
-  },
-  "ad24751bf907b017": {
-   "city": "Birzebbuga",
-   "from": "19 November 2026 07:30",
-   "streets": [
-    "TRIQ L- GHANNEJJA",
-    "TRIQ IL- QAJJENZA"
-   ],
-   "to": "19 November 2026 12:30"
   },
   "b942dad1f51651ff": {
    "city": "Il-Belt Valletta",
@@ -2189,39 +2108,6 @@
     "TRIQ IT- TIGRIJA"
    ],
    "to": "29 November 2026 12:00"
-  },
-  "db1cd05e00669eff": {
-   "city": "Il-Mellieha",
-   "from": "19 November 2026 08:00",
-   "streets": [
-    "TRIQ L- ASSEDJU L-KBIR 1565",
-    "TRIQ IL- MODD",
-    "TRIQ IL- QIGHAN",
-    "TRIQ IL- MIDRA",
-    "TRIQ GORG BORG OLIVIER",
-    "TRIQ IL- MADONNA TA' FATIMA",
-    "TRIQ L- ISQOF PACE",
-    "TRIQ IL- QALB IMQADDSA",
-    "TRIQ SAN PUBLJU",
-    "TRIQ SAN PAWL",
-    "MISRAH IL- PARROCCA",
-    "TRIQ IL- MARFA",
-    "TRIQ MONS. INDRI FENECH",
-    "TRIQ IL- PARROCCA",
-    "TRIQ IN- NINFA CALYPSO",
-    "TRIQ IC- CIKKEN",
-    "TRIQ QASAM BARRANI",
-    "TRIQ NAPULJUN CARUANA DINGLI",
-    "TRIQ IL- MADONNA TAL-GHAR",
-    "TRIQ IL- KAPPILLAN MAGRI",
-    "TRIQ IL- LUH",
-    "TRIQ L- ERWIEH",
-    "TRIQ SALVINU VELLA",
-    "TRIQ L- INKURUNAZZJONI",
-    "DAWRET IL- MELLIEHA",
-    "TRIQ IL- MITHNA L-GDIDA"
-   ],
-   "to": "19 November 2026 11:00"
   },
   "e3ff1b4a265a8bdf": {
    "city": "Ix-Xewkija",
