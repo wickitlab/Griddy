@@ -1518,15 +1518,6 @@
    ],
    "to": "25 November 2026 04:00"
   },
-  "1167dab9c2b7e5bf": {
-   "city": "Santa Venera",
-   "from": "20 November 2026 07:30",
-   "streets": [
-    "TRIQ IS- SOLL",
-    "TRIQ IL- HARRUB"
-   ],
-   "to": "20 November 2026 12:30"
-  },
   "13ae30e2b330e35a": {
    "city": "L-Gharb",
    "from": "21 November 2026 08:00",
@@ -1538,16 +1529,6 @@
    ],
    "to": "21 November 2026 14:00"
   },
-  "1bce6a0abe054838": {
-   "city": "In-Naxxar",
-   "from": "20 November 2026 07:00",
-   "streets": [
-    "TRIQ IL- BAJJA TAS-SALINI",
-    "TRIQ IL- BARRAKKI TAL-MELH",
-    "TRIQ IL- KAPPELLA TAL-LUNZJATA"
-   ],
-   "to": "20 November 2026 13:00"
-  },
   "23a4087647b7eefd": {
    "city": "Hal Lija",
    "from": "21 November 2026 08:00",
@@ -1555,34 +1536,6 @@
     "TRIQ IN- NAXXAR"
    ],
    "to": "21 November 2026 14:00"
-  },
-  "5b9c8e87eb42192e": {
-   "city": "L-Imsida",
-   "from": "20 November 2026 10:00",
-   "streets": [
-    "TRIQ IL- KAROZZIN",
-    "TRIQ GARCIN",
-    "TRIQ TAL- GHERIEBEL"
-   ],
-   "to": "20 November 2026 14:00"
-  },
-  "684b63a8e7209951": {
-   "city": "Ghajnsielem",
-   "from": "20 November 2026 08:30",
-   "streets": [
-    "TRIQ MANOEL DE VILHENA"
-   ],
-   "to": "20 November 2026 14:00"
-  },
-  "7cb5456c7f4bb020": {
-   "city": "Hal Balzan",
-   "from": "20 November 2026 08:00",
-   "streets": [
-    "TRIQ IT- TLIET KNEJJES",
-    "TRIQ IT- TLIET KNEJJES",
-    "SQAQ NRU. 3"
-   ],
-   "to": "20 November 2026 14:00"
   },
   "7d43f1cb42b88e19": {
    "city": "Birkirkara",
@@ -1607,27 +1560,6 @@
     "TRIQ IL- KLIN"
    ],
    "to": "21 November 2026 14:00"
-  },
-  "92e34313d0be3c00": {
-   "city": "Il-Gudja",
-   "from": "20 November 2026 07:00",
-   "streets": [
-    "VJAL IT- TORRI",
-    "TRIQ SAN PAWL",
-    "TRIQ HAL RESQUN",
-    "TRIQ SAN MARK",
-    "SQAQ IL- FIDWA",
-    "TRIQ IL- KBIRA",
-    "TRIQ IL- KBIRA",
-    "SQAQ NRU. 4",
-    "TRIQ IL- KBIRA",
-    "SQAQ NRU. 3",
-    "TRIQ IL- FIDWA",
-    "TRIQ TA' LORETU",
-    "WESGHET ANGLU DALLI",
-    "TRIQ BIRZEBBUGA"
-   ],
-   "to": "20 November 2026 13:00"
   },
   "a2a8f00b2e613e73": {
    "city": "Ix-Xghajra",
@@ -1661,32 +1593,6 @@
    ],
    "to": "21 November 2026 16:00"
   },
-  "ac7f73dd293f972d": {
-   "city": "Iz-Zejtun",
-   "from": "20 November 2026 07:00",
-   "streets": [
-    "TRIQ DUN GWANN TABONE",
-    "SQAQ TAL- BAGGI",
-    "TRIQ SANTA LUCIJA",
-    "TRIQ SAN CIRILLU",
-    "TRIQ ID- DWIEMES",
-    "MISRAH TA' PIZZUTA",
-    "TRIQ ANGLU GRIMA",
-    "SQAQ IL- MITHNA",
-    "TRIQ LUQA BRIFFA",
-    "SQAQ FI",
-    "TRIQ ANGLU DELIA"
-   ],
-   "to": "20 November 2026 12:15"
-  },
-  "b942dad1f51651ff": {
-   "city": "Il-Belt Valletta",
-   "from": "20 November 2026 04:30",
-   "streets": [
-    "TRIQ IL- MERKANTI"
-   ],
-   "to": "20 November 2026 08:30"
-  },
   "bc973b3c55260e37": {
    "city": "Hal Tarxien",
    "from": "22 November 2026 08:00",
@@ -1711,14 +1617,6 @@
     "TRIQ IT- TIGRIJA"
    ],
    "to": "29 November 2026 22:30"
-  },
-  "cd8ca391dcc4acef": {
-   "city": "L-Imsida",
-   "from": "20 November 2026 10:00",
-   "streets": [
-    "TRIQ GARCIN"
-   ],
-   "to": "20 November 2026 14:00"
   },
   "d04ded85333c835f": {
    "city": "Birzebbuga",
