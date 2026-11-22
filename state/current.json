@@ -816,25 +816,6 @@
    ],
    "to": "25 November 2026 04:00"
   },
-  "13ae30e2b330e35a": {
-   "city": "L-Gharb",
-   "from": "21 November 2026 08:00",
-   "streets": [
-    "TRIQ BIRBUBA",
-    "TRIQ MONGUR",
-    "TRIQ SAN DIMITRI",
-    "TRIQ NEIGU"
-   ],
-   "to": "21 November 2026 14:00"
-  },
-  "23a4087647b7eefd": {
-   "city": "Hal Lija",
-   "from": "21 November 2026 08:00",
-   "streets": [
-    "TRIQ IN- NAXXAR"
-   ],
-   "to": "21 November 2026 14:00"
-  },
   "7d43f1cb42b88e19": {
    "city": "Birkirkara",
    "from": "27 November 2026 08:00",
@@ -846,18 +827,6 @@
     "TRIQ IL- KBIRA"
    ],
    "to": "27 November 2026 14:00"
-  },
-  "9009b04cc11063a7": {
-   "city": "L-Iklin",
-   "from": "21 November 2026 08:00",
-   "streets": [
-    "TRIQ LEWIS F. MIZZI",
-    "TRIQ IN- NAXXAR",
-    "TRIQ CENSU BUGEJA",
-    "TRIQ GIOVANNI CURMI",
-    "TRIQ IL- KLIN"
-   ],
-   "to": "21 November 2026 14:00"
   },
   "a2a8f00b2e613e73": {
    "city": "Ix-Xghajra",
@@ -878,18 +847,6 @@
     "VJAL KOTTONER"
    ],
    "to": "23 November 2026 13:00"
-  },
-  "a964eabc5c4d0911": {
-   "city": "Il-Fgura",
-   "from": "21 November 2026 07:00",
-   "streets": [
-    "TRIQ TAL- KLERKU",
-    "TRIQ IL- KARMNU",
-    "TRIQ SAN XMUN",
-    "TRIQ ANTONIO U MARIA CUMBO",
-    "TRIQ L- ERBATAX TA' DICEMBRU 1945"
-   ],
-   "to": "21 November 2026 16:00"
   },
   "bc973b3c55260e37": {
    "city": "Hal Tarxien",
@@ -916,17 +873,6 @@
    ],
    "to": "29 November 2026 22:30"
   },
-  "d04ded85333c835f": {
-   "city": "Birzebbuga",
-   "from": "21 November 2026 07:00",
-   "streets": [
-    "TRIQ TAL- GEBEL",
-    "TRIQ IR- RADDIENA",
-    "TRIQ IT- TNEJN U GHOXRIN TA' FRAR",
-    "SQAQ TAL- QOTON"
-   ],
-   "to": "21 November 2026 13:00"
-  },
   "d578d499e8c93e3d": {
    "city": "Hal Qormi",
    "from": "29 November 2026 08:00",
@@ -945,21 +891,6 @@
     "TRIQ IL- BICCERIJA"
    ],
    "to": "24 November 2026 12:30"
-  },
-  "ea513ecbcdfa0964": {
-   "city": "Hal Luqa",
-   "from": "21 November 2026 08:00",
-   "streets": [
-    "TRIQ ANTON FALZON",
-    "TRIQ PATRI INDRI SCHEMBRI",
-    "TRIQ SAN PAWL",
-    "TRIQ HAL SAFLIENI",
-    "TRIQ SAN GAKMU",
-    "TRIQ IR- RIXTELLU",
-    "TRIQ IL- GDIDA",
-    "SQAQ IL- FDAL TAL-HADID"
-   ],
-   "to": "21 November 2026 16:00"
   },
   "f694e8723e8af6f6": {
    "city": "Il-Fgura",
