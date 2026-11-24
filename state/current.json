@@ -317,20 +317,6 @@
    ],
    "transformers_sha256": "1cd76ddda3c687a045e9de22c42656ec4c1779876d662652a2c5a4999b198268"
   },
-  "42034": {
-   "CaseID": "42034",
-   "EndDate": "2026-11-22T14:00:00+01:00",
-   "StartDate": "2026-11-22T08:00:00+01:00",
-   "transformers": [
-    {
-     "TransformerId": "758",
-     "feeders": [
-      "2"
-     ]
-    }
-   ],
-   "transformers_sha256": "826d85b38cb45ebfc05048a48ca75b17641e494d1e0b11bba904e0bf8820fb1d"
-  },
   "42063": {
    "CaseID": "42063",
    "EndDate": "2026-11-27T14:00:00+01:00",
@@ -343,7 +329,7 @@
      ]
     }
    ],
-   "transformers_sha256": "18f4c65995f59188ce59dcf31c18867b89a6cd82dfccb15645297c1218810f46"
+   "transformers_sha256": "8d8470b0668d607bb0a3706b789efcc26ca460a1fb97b07e441ad673d7e13562"
   },
   "42065": {
    "CaseID": "42065",
@@ -359,28 +345,6 @@
    ],
    "transformers_sha256": "b9777df63d3f5a9ef72163ac0adbf41847852a2a6e1d7aa9c0be6dc54b7ec17c"
   },
-  "42069": {
-   "CaseID": "42069",
-   "EndDate": "2026-11-25T04:00:00+01:00",
-   "StartDate": "2026-11-24T22:00:00+01:00",
-   "transformers": [
-    {
-     "TransformerId": "400",
-     "feeders": [
-      "3",
-      "1"
-     ]
-    },
-    {
-     "TransformerId": "400",
-     "feeders": [
-      "3",
-      "1"
-     ]
-    }
-   ],
-   "transformers_sha256": "364469bf618e86be854e5935817ef9b5d2eb7a23eb0bd591de35c172f46b481d"
-  },
   "42071": {
    "CaseID": "42071",
    "EndDate": "2026-11-25T15:00:00+01:00",
@@ -393,7 +357,7 @@
      ]
     }
    ],
-   "transformers_sha256": "8aaf199882c58b86d4e2d75f06d5c799c9bc80128d1f9fd279e31235afdcd84e"
+   "transformers_sha256": "a093afc03395e83a4311d79dc10d691bf34c2e0739e6d36702eaae48fbf7c8a3"
   },
   "42072": {
    "CaseID": "42072",
@@ -407,7 +371,7 @@
      ]
     }
    ],
-   "transformers_sha256": "f5e88b1ecbdea3def4115aaa2dc75769c58c1958ace8fc2cbba6def90b96eb9b"
+   "transformers_sha256": "df6b573a8d284f852fda6d035c9d60a448e8c57508b67a7b0a1ecfc99767c642"
   },
   "42073": {
    "CaseID": "42073",
@@ -421,7 +385,7 @@
      ]
     }
    ],
-   "transformers_sha256": "538f7e08255954c60c58a8cf5e4500f27db14c29b3670b28d5fdb1a80167629e"
+   "transformers_sha256": "5ffbe976decb03492f964beedcb9f65efecdcb68d5e78ccfdaab360718e54cbc"
   },
   "42074": {
    "CaseID": "42074",
@@ -435,7 +399,7 @@
      ]
     }
    ],
-   "transformers_sha256": "d3fa9ad1549bdece266e071098c382d020208ec057599ec6baf69fce0207ea88"
+   "transformers_sha256": "c924a14fbbc16fc00f9262ff225c45c3535608eb6eac50107d3c690fd2bdd435"
   },
   "42075": {
    "CaseID": "42075",
@@ -449,7 +413,7 @@
      ]
     }
    ],
-   "transformers_sha256": "d361e55713c95893cad9f2319be6bdc30493f2af37d9f3a96fd9c3076bf66e7c"
+   "transformers_sha256": "cd86e0ab8a12c17e8b32f7ce06ff7ff1570ac5da1fc228ae080683348c512f23"
   },
   "42077": {
    "CaseID": "42077",
@@ -463,7 +427,7 @@
      ]
     }
    ],
-   "transformers_sha256": "64613e314bd43246af58aa25a7734444010dcf786d30334284b5c8c37c837ac2"
+   "transformers_sha256": "a716125f0588a3944e868d84cfd49433b4c6104e76cf61d1ef181b8f7e83ef2e"
   },
   "42078": {
    "CaseID": "42078",
@@ -477,7 +441,7 @@
      ]
     }
    ],
-   "transformers_sha256": "710e95b6fb95af7ba64706d1ed64a73510489b5a3bb89aa72c2f052503389a5b"
+   "transformers_sha256": "152c64e235ee6475c82caf6572882733fe7e3447160090b777ededfce71f8d53"
   },
   "42079": {
    "CaseID": "42079",
@@ -491,7 +455,7 @@
      ]
     }
    ],
-   "transformers_sha256": "73c3aa7abaf74df49202988d53b3d4457ea26faeebda9bf812e71f8b687ae1aa"
+   "transformers_sha256": "6c279d8f3d494771a7b1e4c4da9e0dd8eb9dc7e54c3586ad581fda24acc21255"
   },
   "42080": {
    "CaseID": "42080",
@@ -505,7 +469,7 @@
      ]
     }
    ],
-   "transformers_sha256": "047b3974a1af0dffbc030f7e936f3ee671f64b3bccbef75f7bc471b3e73cf8bd"
+   "transformers_sha256": "553627c0b7e3a97f4067b5c562a3c2952d495489e68223d8242e8cfd0cf7330b"
   },
   "42081": {
    "CaseID": "42081",
@@ -533,7 +497,7 @@
      ]
     }
    ],
-   "transformers_sha256": "71e94c89b4b6ad6e783eb9d6f3d138b41d1bd210d62a7f5b07ed375f932547ab"
+   "transformers_sha256": "30c6e635c915e77c9b9a5ba4caaf719ff67b3f1eac1b687e2b428fd1a11ba649"
   },
   "42083": {
    "CaseID": "42083",
@@ -547,7 +511,7 @@
      ]
     }
    ],
-   "transformers_sha256": "ada14fb1e4e598c346bd0dea2046cac9915aa225386960b5a47d52228a290034"
+   "transformers_sha256": "ca8c302d6f70e4d06ad0852f3951fc3a055e0039306abf9c5fdf072c8cae87b4"
   },
   "42084": {
    "CaseID": "42084",
@@ -561,7 +525,7 @@
      ]
     }
    ],
-   "transformers_sha256": "4c9736c7c2c39bfef02382fd69bce29d49aa9ac08872fca3854a8cbfa5db1405"
+   "transformers_sha256": "dd6bb5cc37de4710bc3cd987cc8d736be3b559b09b350b0bb9388920213a94ed"
   },
   "42085": {
    "CaseID": "42085",
@@ -575,7 +539,7 @@
      ]
     }
    ],
-   "transformers_sha256": "76c2f8d300d4d02db3d39b4f8b95bca60e6e31a22b4e69f967b9581df4863e07"
+   "transformers_sha256": "2b96a2da1652eb86309e576684cff9e551f72ac0cae4c8ea58dc64c3f1537845"
   },
   "42086": {
    "CaseID": "42086",
@@ -589,7 +553,7 @@
      ]
     }
    ],
-   "transformers_sha256": "f46b8bfd4ed8c379ed791116a0fcab5c2840c190d48b540d89d648a21e0dfaff"
+   "transformers_sha256": "23bb09b8e969d3b24aad9f7681aa2898ab5fd6d1a1554bf2e64d7d69e957dad9"
   },
   "42087": {
    "CaseID": "42087",
@@ -603,7 +567,7 @@
      ]
     }
    ],
-   "transformers_sha256": "85c919ff95579f330418a0dc99a00a1c32eb37f6b52e49b1b39b84eecd392bee"
+   "transformers_sha256": "2ca31972bf5c2ba5882d09318e6593bc3abcbc8bd50ade1ca73da343753a48d7"
   },
   "42088": {
    "CaseID": "42088",
@@ -617,7 +581,7 @@
      ]
     }
    ],
-   "transformers_sha256": "32c80fd44b46d22c8c4b0d811fb329bb5795a17c76cc2e625b02b83fc5c53db5"
+   "transformers_sha256": "3430eccf9b6c0ea3fdd2fdf6f27c818a2fc048bc271df8e75a1d07269e43a3ef"
   },
   "42089": {
    "CaseID": "42089",
@@ -751,7 +715,7 @@
      ]
     }
    ],
-   "transformers_sha256": "164326d0c41bbb31530951ea63425eb5b6d4fb189e3202dc16be4770915d89d1"
+   "transformers_sha256": "471691f349283c5790dba8a5cb2d83d3ed3db652b7a35d9bca559a5c6ef82861"
   },
   "42090": {
    "CaseID": "42090",
@@ -765,7 +729,7 @@
      ]
     }
    ],
-   "transformers_sha256": "7cdb79210dc7778256e99c9eddbe3e77f2d822e50f07f1a820281dd3defec587"
+   "transformers_sha256": "099977a8c387a137738b9ede0ee5298d157801adae4ea798b1719647d1252446"
   },
   "42091": {
    "CaseID": "42091",
@@ -779,7 +743,7 @@
      ]
     }
    ],
-   "transformers_sha256": "c9f46b6a347977bdb8987a09623cf53aad5162c91230603dd9252a7d8ecfae89"
+   "transformers_sha256": "3e928549dd09644166ea3a0ae59c9618141f68fd985403b076edc7677009b445"
   },
   "42092": {
    "CaseID": "42092",
@@ -793,7 +757,7 @@
      ]
     }
    ],
-   "transformers_sha256": "7821e59165e6b3539425c9a16ef27817d30f06870e47414babd391a8dfa8dbbc"
+   "transformers_sha256": "2300d9b89beb4bb869fc6d7888e507edcb15a6dd4c1cc54ac94e0fc61a9f8621"
   },
   "42093": {
    "CaseID": "42093",
@@ -1123,7 +1087,35 @@
      ]
     }
    ],
-   "transformers_sha256": "5b3b87693e577db465bc0d1268dc241b5e4a6d554e8e06375b3fe5df4540dc79"
+   "transformers_sha256": "56709e734db6fc07fa771924e98e151d7542ed322d47214c28b50fc5ae06a478"
+  },
+  "42096": {
+   "CaseID": "42096",
+   "EndDate": "2026-11-28T15:00:00+01:00",
+   "StartDate": "2026-11-28T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "8",
+     "feeders": [
+      "1"
+     ]
+    }
+   ],
+   "transformers_sha256": "f9919199cde7d868698b9ebb339033f5e2c228a01e46828e7bc11d0fc7ca759c"
+  },
+  "42097": {
+   "CaseID": "42097",
+   "EndDate": "2026-11-28T15:00:00+01:00",
+   "StartDate": "2026-11-28T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "8",
+     "feeders": [
+      "1"
+     ]
+    }
+   ],
+   "transformers_sha256": "78fc4368f0e3f5c83ecc43fff4951a609d96d012d466085393024c3d92dc39a3"
   }
  },
  "planned_page": {
@@ -1297,16 +1289,6 @@
    ],
    "to": "27 November 2026 12:00"
   },
-  "78eae4cc8f583736": {
-   "city": "Haz-Zebbug",
-   "from": "23 November 2026 07:00",
-   "streets": [
-    "TRIQ MAMO",
-    "TRIQ IS- SINDKU P. VELLA",
-    "TRIQ HAL MULA"
-   ],
-   "to": "23 November 2026 12:00"
-  },
   "7d43f1cb42b88e19": {
    "city": "Birkirkara",
    "from": "27 November 2026 08:00",
@@ -1318,18 +1300,6 @@
     "TRIQ IL- KBIRA"
    ],
    "to": "27 November 2026 14:00"
-  },
-  "8d90c19fafff7394": {
-   "city": "Hal Balzan",
-   "from": "23 November 2026 08:00",
-   "streets": [
-    "TRIQ BIRBAL",
-    "VJAL DE PAULE",
-    "TRIQ IDMEJDA",
-    "VJAL SIR MICHELANGELO REFALO",
-    "WESGHA PROFS. GUZE' AQUILINA"
-   ],
-   "to": "23 November 2026 14:00"
   },
   "8f145735e11a8104": {
    "city": "Tas-Sliema",
@@ -1393,17 +1363,6 @@
     "TRIQ IL- KNISJA"
    ],
    "to": "25 November 2026 12:00"
-  },
-  "a2b2ca5495312c0c": {
-   "city": "Il-Fgura",
-   "from": "23 November 2026 07:00",
-   "streets": [
-    "TRIQ IL- MISK",
-    "TRIQ IL- BIEB",
-    "TRIQ IL- FOSS",
-    "VJAL KOTTONER"
-   ],
-   "to": "23 November 2026 13:00"
   },
   "a63c69d5bc09f4f4": {
    "city": "Hal Qormi",
@@ -1473,18 +1432,6 @@
     "TRIQ IL- BICCERIJA"
    ],
    "to": "24 November 2026 12:30"
-  },
-  "f694e8723e8af6f6": {
-   "city": "Il-Fgura",
-   "from": "23 November 2026 07:00",
-   "streets": [
-    "TRIQ IS- SUR",
-    "TRIQ COSPICUA",
-    "TRIQ IL- KAMPANELLA",
-    "TRIQ BLONDEL",
-    "TRIQ ANGLU U MARIANNA CAMILLERI"
-   ],
-   "to": "23 November 2026 12:00"
   }
  }
 }
