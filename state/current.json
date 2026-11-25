@@ -1982,6 +1982,84 @@
     }
    ],
    "transformers_sha256": "cda193b685e91d7b6ae1e630c208f587f19df7a4efb6b898158d3294d48daf49"
+  },
+  "42115": {
+   "CaseID": "42115",
+   "EndDate": "2026-11-30T13:00:00+01:00",
+   "StartDate": "2026-11-30T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "778",
+     "feeders": [
+      "6",
+      "7"
+     ]
+    },
+    {
+     "TransformerId": "778",
+     "feeders": [
+      "6",
+      "7"
+     ]
+    }
+   ],
+   "transformers_sha256": "3e56e96d08056c5a7c250af4e127aa1283f7889fa8e079837c22d8ffef98cf48"
+  },
+  "42116": {
+   "CaseID": "42116",
+   "EndDate": "2026-11-27T14:00:00+01:00",
+   "StartDate": "2026-11-27T08:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1497",
+     "feeders": [
+      "2"
+     ]
+    }
+   ],
+   "transformers_sha256": "d7accf0ca654a84444903e6c7305ee813d0cb671d429c223da18d38c5a860b17"
+  },
+  "42117": {
+   "CaseID": "42117",
+   "EndDate": "2026-12-02T14:00:00+01:00",
+   "StartDate": "2026-12-02T08:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "1434",
+     "feeders": [
+      "4"
+     ]
+    }
+   ],
+   "transformers_sha256": "c4abf90131f12f4ec13c03cc382dcdc7aa4f68a27e2fbf7c648f069787897d91"
+  },
+  "42118": {
+   "CaseID": "42118",
+   "EndDate": "2026-12-01T13:00:00+01:00",
+   "StartDate": "2026-12-01T07:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "783",
+     "feeders": [
+      "16"
+     ]
+    }
+   ],
+   "transformers_sha256": "25ec96c7151d5342abbdd7a5029405bf359a0e5f143410825004a217ccdce938"
+  },
+  "42119": {
+   "CaseID": "42119",
+   "EndDate": "2026-12-01T16:00:00+01:00",
+   "StartDate": "2026-12-01T06:00:00+01:00",
+   "transformers": [
+    {
+     "TransformerId": "131",
+     "feeders": [
+      "7"
+     ]
+    }
+   ],
+   "transformers_sha256": "9e9b3b2014505d01607e13f97cf4d2d23b6b3ecb3b7d61683279da59e292335b"
   }
  },
  "planned_page": {
@@ -2107,6 +2185,17 @@
    ],
    "to": "27 November 2026 11:30"
   },
+  "54866553c69d7d52": {
+   "city": "Marsaskala",
+   "from": "30 November 2026 07:00",
+   "streets": [
+    "TRIQ FRANS GRECH",
+    "SQAQ SAN GWAKKIN",
+    "PJAZZA DUN TARCIS AGIUS",
+    "TRIQ SANT' ANNA"
+   ],
+   "to": "30 November 2026 13:00"
+  },
   "549e62aae5138208": {
    "city": "Ta Kercem",
    "from": "02 December 2026 08:00",
@@ -2125,6 +2214,25 @@
     "TRIQ SAN PAWL"
    ],
    "to": "28 November 2026 15:00"
+  },
+  "73afd38fa1ff2094": {
+   "city": "Il-Qrendi",
+   "from": "01 December 2026 06:00",
+   "streets": [
+    "TRIQ NICOLO' COMMUNET",
+    "TRIQ ROKKU BUHAGIAR",
+    "TRIQ IL- KBIRA",
+    "SQAQ NRU. 3",
+    "TRIQ IL- KBIRA",
+    "SQAQ NRU. 4",
+    "TRIQ IL- KNISJA",
+    "SQAQ IL- KNISJA",
+    "TRIQ L- ISKOLA",
+    "TRIQ J. G. VANCE",
+    "TRIQ IL- PARROCCA",
+    "TRIQ SAN MATTEW"
+   ],
+   "to": "01 December 2026 16:00"
   },
   "746ed2cc25cb84e5": {
    "city": "Paola",
@@ -2306,6 +2414,21 @@
    ],
    "to": "26 November 2026 05:30"
   },
+  "c193383098881b43": {
+   "city": "Ix-Xewkija",
+   "from": "02 December 2026 08:30",
+   "streets": [
+    "SQAQ SANTA MARIJA",
+    "TRIQ TA' KRABA",
+    "TRIQ L- GHARUS",
+    "TRIQ TA' HRABA",
+    "TRIQ TAC- CANGA",
+    "TRIQ SANTA MARIJA",
+    "TRIQ TAL- HAMRIJA",
+    "TREJQET TA' KRABA NRU. 1"
+   ],
+   "to": "02 December 2026 14:00"
+  },
   "c4da2f051522e75f": {
    "city": "Paola",
    "from": "25 November 2026 07:30",
@@ -2371,6 +2494,16 @@
    ],
    "to": "26 November 2026 19:00"
   },
+  "d2cbeb9dcf6fba36": {
+   "city": "Marsaskala",
+   "from": "01 December 2026 07:00",
+   "streets": [
+    "TRIQ IL- KAVETTI",
+    "TRIQ IL- QAWWARA",
+    "TRIQ ID- DOLMEN"
+   ],
+   "to": "01 December 2026 13:00"
+  },
   "d578d499e8c93e3d": {
    "city": "Hal Qormi",
    "from": "29 November 2026 08:00",
@@ -2403,6 +2536,16 @@
     "TRIQ L- GHADIRA"
    ],
    "to": "02 December 2026 16:00"
+  },
+  "edb95832eca86af8": {
+   "city": "Il-Qala",
+   "from": "27 November 2026 08:30",
+   "streets": [
+    "TRIQ ANDAR IX-XAGHARI",
+    "TRIQ IL- MITHNA",
+    "TRIQ TA' SEMPER"
+   ],
+   "to": "27 November 2026 14:00"
   },
   "faa93bc9cc1f7ce6": {
    "city": "Iz-Zejtun",
